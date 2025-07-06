@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalitha Gayatri</h1>
-<h3 align="center">> I'm an Electronics and Communication Engineering graduate with a strong passion for embedded systems, IoT, and programming. This repository showcases my projects and learning journey, where I combine hardware and software to build innovative solutions for real-world problems. From circuit design to microcontroller programming, each project reflects my commitment to continuous learning and practical application of engineering concepts.</h3>
+<h3 align="center"> I'm an Electronics and Communication Engineering graduate with a strong passion for embedded systems, IoT, and programming. This repository showcases my projects and learning journey, where I combine hardware and software to build innovative solutions for real-world problems. From circuit design to microcontroller programming, each project reflects my commitment to continuous learning and practical application of engineering concepts.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
